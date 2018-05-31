@@ -3,7 +3,8 @@
 ../.DS_Store
 .packages
 .pub/
-
+../.vscode/
+.vscode/
 build/
 
 .flutter-plugins
